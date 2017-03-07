@@ -6,4 +6,6 @@ BREAK HEARTS BETWEEN COUPLES
 
 ##How to play
 
-Move the character using **WASD** and then go across herats between couples. you get a scores when hearts break.
+Move the character using **WASD** and then go across herats between couples. you get scores when hearts break.
+
+Click the Rudolph six times, you can also get scores
